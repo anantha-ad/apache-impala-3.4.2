@@ -1,0 +1,1 @@
+# apache-impala-3.4.2
